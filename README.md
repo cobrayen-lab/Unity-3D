@@ -1,4 +1,4 @@
-●	Github 連結 : https://github.com/cobrayen-lab/Unity-3D/blob/f90d790eaa6fe4807fae150d0f753afd9d291016/.gitignore
+●	Github 連結 : https://github.com/cobrayen-lab/Unity-3D
 
 ●	YouTube 連結 : https://youtu.be/47dAkBPS8Zg 
 
