@@ -18,7 +18,7 @@
 <img width="2050" height="1065" alt="4" src="https://github.com/user-attachments/assets/6c9024ef-3a89-497b-bc12-ae60dc93faf9" />
 <img width="2053" height="1061" alt="5" src="https://github.com/user-attachments/assets/35a1894c-7d9e-4c55-bc42-05175548932f" />
 
-  ■	放大、縮小
+  ■	放大、縮小(滑鼠滾輪)
 <img width="2049" height="1063" alt="6" src="https://github.com/user-attachments/assets/8f370171-921a-4a87-8b66-d8c506b75b4d" />
 <img width="2049" height="1061" alt="7" src="https://github.com/user-attachments/assets/a8e1c9fe-8b20-47a9-bb7f-1541000b592d" />
 
@@ -27,7 +27,7 @@
 <img width="2052" height="1067" alt="8" src="https://github.com/user-attachments/assets/0f65b427-b015-4b63-851a-62b49a2faaa0" />
 <img width="2047" height="1059" alt="9" src="https://github.com/user-attachments/assets/02d661d1-0a3c-43b5-a1ee-aab9f7346598" />
 
-  ■	旋轉
+  ■	旋轉( Alt + 滑鼠右鍵)
 <img width="2046" height="1059" alt="10" src="https://github.com/user-attachments/assets/2be156d1-54ea-4e56-b929-c1f3e58851ca" />
 <img width="2051" height="1067" alt="11" src="https://github.com/user-attachments/assets/60facd01-4bf6-41b8-b5be-2911d48e625d" />
 
